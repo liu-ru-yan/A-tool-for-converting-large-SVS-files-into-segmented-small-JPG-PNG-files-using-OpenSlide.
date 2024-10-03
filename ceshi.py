@@ -1,7 +1,7 @@
 import openslide 
 from openslide.deepzoom import DeepZoomGenerator
 import os
-import numpy
+
 from PIL import Image
 
 
